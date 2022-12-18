@@ -29,7 +29,7 @@ In this project, we have build a face recognition model by using the Eigenfaces 
 
 ***
 
-<u>Challenges faced while performing this project:</u>
+## <u>Challenges faced while performing this project:</u>
 - Biggest hurdle in this project is the dataset (Image dataset) collection.
 - This involved considering the features like Lighting conditions, Facial Orientation, Fcaial Expression.
 - Removing Oculsions on the faces(like mask, glasses, beard, etc.).
