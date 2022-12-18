@@ -26,3 +26,14 @@ In this project, we have build a face recognition model by using the Eigenfaces 
 6. Now, import the .csv files for categorical labelling of the images in the dataset. This can be used for predicting the class of the test images and accuracy calculations.
 7. Now, predict the class of the test images using the 1NN classifier.
 8. (Optional) - You can display the confusion matrix and classification report for more clarity.
+
+***
+
+<u>Challenges faced while performing this project:</u>
+- Biggest hurdle in this project is the dataset (Image dataset) collection.
+- This involved considering the features like Lighting conditions, Facial Orientation, Fcaial Expression.
+- Removing Oculsions on the faces(like mask, glasses, beard, etc.).
+- Considering colored images only.
+
+***
+# <center>--- End of Description ---</center>
